@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VerificaMenorMaior</string>
+
+    <string name="txtTitulo">Verificação e cálculo de números</string>
+    <string name="txtN1">Insira um número</string>
+    <string name="txtN2">Insira um número</string>
+    <string name="btnVerifica">Verificar Números</string>
+    <string name="btnCalcula">Calcular</string>
+    <string name="resVerifica"></string>
+    <string name="resCalcula"></string>
+
+
+</resources>
